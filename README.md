@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi, I'm Md. Shamsul Alam Sajib</h1>
+<h1 align="center">👋 Hello, I'm Md. Shamsul Alam Sajib</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Flutter • MERN Stack • Python</b>  
-  <br>
-  Building Scalable & Secure Web & Mobile Apps with Clean Code & Performance
+  <b>Full-Stack Developer | Flutter • MERN Stack • Python</b><br>
+  Crafting Scalable, Secure & Performance-Driven Web and Mobile Applications
 </p>
 
 <p align="center">
@@ -17,11 +16,9 @@
 
 ### 🧠 About Me
 
-🔸 Full-Stack Developer with 7+ years of experience  
-🔸 Expert in Flutter & MERN Stack  
-🔸 Built 30+ mobile & web applications  
-🔸 Strong focus on clean architecture, performance, and user-centric design  
-🔸 Passionate about turning ideas into impactful digital products
+I’m a passionate and detail-oriented Full-Stack Developer with over 7 years of experience in building cross-platform mobile apps and modern web solutions. I specialize in Flutter for mobile and the MERN stack for web development.
+
+With a strong focus on clean code, system design, and user experience, I’ve delivered 30+ high-quality applications across industries including lifestyle, e-commerce, automotive, and social media.
 
 ---
 
@@ -43,11 +40,20 @@
 
 ### 🚀 Featured Projects
 
-- [🔍 Text-to-Mental-Health Detection using ML](https://github.com/sajibsaj66/Text-to-Mental-Health-Detection-using-ML)  
-- [🗺️ EV Charging Station Flutter Map](https://github.com/sajibsaj66/charging_station_flutter_map)  
+- [🔍 Text-to-Mental-Health Detection (ML)](https://github.com/sajibsaj66/Text-to-Mental-Health-Detection-using-ML)  
+  Machine learning-based analysis of mental health conditions via text.
+
+- [🗺️ EV Charging Station Map (Flutter)](https://github.com/sajibsaj66/charging_station_flutter_map)  
+  Multi-platform Flutter app with clustering-based EV station locator.
+
 - [📱 Flutter Social Media App](https://github.com/sajibsaj66/Flutter_Social_Media_App)  
+  Social app with live video, Firebase backend, and Amazon S3 integration.
+
 - [🎬 Flutter Movie App](https://github.com/sajibsaj66/flutter-movie-app)  
-- [🚗 Rent a Car Platform](https://github.com/sajibsaj66/rent_a_car)
+  Clean architecture app with BLoC, Hive, and movie API.
+
+- [🚗 Rent a Car Platform](https://github.com/sajibsaj66/rent_a_car)  
+  Full-featured car rental service system.
 
 ---
 
@@ -71,11 +77,10 @@
 
 ---
 
-### 🤝 Let’s Collaborate
+### 🤝 Let’s Connect
 
-I'm always open to collaborating on exciting Flutter or MERN-based projects.  
-Reach out if you have an idea, project, or just want to connect!
+I’m always open to remote collaboration, freelance opportunities, and innovative projects.  
+If you have an idea you'd like to build or need a developer who can deliver with quality — let's talk!
 
 ---
-
 
