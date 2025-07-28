@@ -17,9 +17,9 @@
 
 ## About Me
 
-I am a results-driven Full-Stack Developer with over 7 years of experience, specializing in cross-platform mobile applications with **Flutter** and scalable web solutions using the **MERN Stack**.
+I am a results-driven Full-Stack Developer with over 8 years of experience, specializing in cross-platform mobile applications with **Flutter** and scalable web solutions using the **MERN Stack**.
 
-Having developed and delivered more than 30 real-world applications, I focus on writing clean, maintainable code and designing systems that are performance-optimized and user-centered.
+Having developed and delivered more than 40+  real-world applications, I focus on writing clean, maintainable code and designing systems that are performance-optimized and user-centered.
 
 ---
 
