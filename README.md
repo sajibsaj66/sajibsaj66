@@ -1,86 +1,99 @@
-<h1 align="center">👋 Hello, I'm Md. Shamsul Alam Sajib</h1>
+<h1 align="center">Md. Shamsul Alam Sajib</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Flutter • MERN Stack • Python</b><br>
+  <strong>Full-Stack Developer | Flutter • MERN Stack • Python</strong><br>
   Crafting Scalable, Secure & Performance-Driven Web and Mobile Applications
 </p>
 
 <p align="center">
-  <a href="https://www.deshit-bd.com" target="_blank">🌐 Website</a> •
-  <a href="mailto:sajibsaj66@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/shamsul-alam-sajib-662460201" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/sajibsaj66" target="_blank">👨‍💻 HackerRank</a>
+  <a href="https://www.deshit-bd.com" target="_blank">Website</a> |
+  <a href="mailto:sajibsaj66@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/shamsul-alam-sajib-662460201" target="_blank">LinkedIn</a> |
+  <a href="https://www.hackerrank.com/profile/sajibsaj66" target="_blank">HackerRank</a>
 </p>
 
----
+<hr/>
 
-### 🧠 About Me
+## About Me
 
-I’m a passionate and detail-oriented Full-Stack Developer with over 7 years of experience in building cross-platform mobile apps and modern web solutions. I specialize in Flutter for mobile and the MERN stack for web development.
+I am a results-driven Full-Stack Developer with over 7 years of experience, specializing in cross-platform mobile applications with **Flutter** and scalable web solutions using the **MERN Stack**.
 
-With a strong focus on clean code, system design, and user experience, I’ve delivered 30+ high-quality applications across industries including lifestyle, e-commerce, automotive, and social media.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+Having developed and delivered more than 30 real-world applications, I focus on writing clean, maintainable code and designing systems that are performance-optimized and user-centered.
 
 ---
 
-### 🚀 Featured Projects
+## Tech Stack
 
-- [🔍 Text-to-Mental-Health Detection (ML)](https://github.com/sajibsaj66/Text-to-Mental-Health-Detection-using-ML)  
-  Machine learning-based analysis of mental health conditions via text.
+<div align="left">
 
-- [🗺️ EV Charging Station Map (Flutter)](https://github.com/sajibsaj66/charging_station_flutter_map)  
-  Multi-platform Flutter app with clustering-based EV station locator.
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-- [📱 Flutter Social Media App](https://github.com/sajibsaj66/Flutter_Social_Media_App)  
-  Social app with live video, Firebase backend, and Amazon S3 integration.
+<!-- Mobile / Web Frameworks -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-- [🎬 Flutter Movie App](https://github.com/sajibsaj66/flutter-movie-app)  
-  Clean architecture app with BLoC, Hive, and movie API.
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 
-- [🚗 Rent a Car Platform](https://github.com/sajibsaj66/rent_a_car)  
-  Full-featured car rental service system.
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## Featured Projects
+
+- **[Text-to-Mental-Health Detection using ML](https://github.com/sajibsaj66/Text-to-Mental-Health-Detection-using-ML)**  
+  Machine learning-based sentiment analysis for mental health.
+
+- **[EV Charging Station Map App (Flutter)](https://github.com/sajibsaj66/charging_station_flutter_map)**  
+  Cross-platform app for locating electric vehicle charging stations.
+
+- **[Flutter Social Media App](https://github.com/sajibsaj66/Flutter_Social_Media_App)**  
+  Full-featured app with Firebase, live video, Amazon S3, and real-time chat.
+
+- **[Flutter Movie App](https://github.com/sajibsaj66/flutter-movie-app)**  
+  Movie listing app using clean architecture (BLoC, Hive, API integration).
+
+- **[Rent a Car Platform](https://github.com/sajibsaj66/rent_a_car)**  
+  Car booking system with backend and responsive UI.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsaj66&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sajibsaj66&show_icons=true&theme=github_dark&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsaj66&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsaj66&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sajibsaj66&show_icons=true&theme=default&hide_border=true"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsaj66&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-### 📊 Profile Visitors
+## Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sajibsaj66&label=Profile%20Views&color=0e75b6&style=flat" alt="sajibsaj66" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sajibsaj66&label=Visitors&color=blue&style=flat" alt="Profile View Counter" />
 
 ---
 
-### 🤝 Let’s Connect
+## Let's Collaborate
 
-I’m always open to remote collaboration, freelance opportunities, and innovative projects.  
-If you have an idea you'd like to build or need a developer who can deliver with quality — let's talk!
+If you're building a new product, modernizing an existing one, or need a dedicated mobile/web developer, feel free to connect. I’m open to freelance projects, partnerships, and full-time opportunities.
 
 ---
 
