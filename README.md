@@ -9,7 +9,8 @@
   <a href="https://www.deshit-bd.com" target="_blank">Website</a> |
   <a href="mailto:sajibsaj66@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/shamsul-alam-sajib-662460201" target="_blank">LinkedIn</a> |
-  <a href="https://www.hackerrank.com/profile/sajibsaj66" target="_blank">HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/sajibsaj66" target="_blank">HackerRank</a> |
+  <a href="https://leetcode.com/u/sajibsaj66/" target="_blank">LeetCode</a>
 </p>
 
 <hr/>
@@ -73,6 +74,20 @@ Having developed and delivered more than 30 real-world applications, I focus on 
 
 ---
 
+## Coding Profiles
+
+- [HackerRank (Problem Solving & Certifications)](https://www.hackerrank.com/profile/sajibsaj66)
+- [LeetCode (DSA Practice)](https://leetcode.com/u/sajibsaj66/)
+
+<!-- Optional LeetCode Card -->
+<!-- 
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/sajibsaj66?theme=light&font=Roboto&ext=activity" alt="LeetCode Stats Card"/>
+</p>
+-->
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -93,7 +108,6 @@ Having developed and delivered more than 30 real-world applications, I focus on 
 
 ## Let's Collaborate
 
-If you're building a new product, modernizing an existing one, or need a dedicated mobile/web developer, feel free to connect. I’m open to freelance projects, partnerships, and full-time opportunities.
+I’m open to freelance work, product development partnerships, and remote collaboration opportunities. If you're building something exciting or need help scaling a system, feel free to reach out.
 
 ---
-
